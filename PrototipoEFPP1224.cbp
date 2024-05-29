@@ -34,11 +34,21 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="include/Catalogos.h" />
+		<Unit filename="include/Procesos.h" />
+		<Unit filename="include/Reportes.h" />
+		<Unit filename="include/bitacora.h" />
 		<Unit filename="include/login.h" />
 		<Unit filename="include/menu.h" />
+		<Unit filename="include/usuarios.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="src/Catalogos.cpp" />
+		<Unit filename="src/Procesos.cpp" />
+		<Unit filename="src/Reportes.cpp" />
+		<Unit filename="src/bitacora.cpp" />
 		<Unit filename="src/login.cpp" />
 		<Unit filename="src/menu.cpp" />
+		<Unit filename="src/usuarios.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
