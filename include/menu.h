@@ -6,6 +6,9 @@ class menu
 {
     public:
         menu();
+        void MenuGeneral();
+
+
 
     protected:
 
