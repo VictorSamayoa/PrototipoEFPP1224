@@ -35,6 +35,7 @@
 			<Add option="-fexceptions" />
 		</Compiler>
 		<Unit filename="include/Catalogos.h" />
+		<Unit filename="include/Cliente.h" />
 		<Unit filename="include/Procesos.h" />
 		<Unit filename="include/Reportes.h" />
 		<Unit filename="include/bitacora.h" />
@@ -43,6 +44,7 @@
 		<Unit filename="include/usuarios.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/Catalogos.cpp" />
+		<Unit filename="src/Cliente.cpp" />
 		<Unit filename="src/Procesos.cpp" />
 		<Unit filename="src/Reportes.cpp" />
 		<Unit filename="src/bitacora.cpp" />
