@@ -1,0 +1,223 @@
+# depslib dependency file v1.0
+1716997350 source:c:\users\josue\onedrive\escritorio\prototipoefpp1224\src\bitacora.cpp
+	<cstring>
+	"Bitacora.h"
+	"Login.h"
+
+1716997373 c:\users\josue\onedrive\escritorio\prototipoefpp1224\include\bitacora.h
+	<iostream>
+	<fstream>
+	<string>
+	<ctime>
+	<cstring>
+	"usuarios.h"
+
+1716997301 c:\users\josue\onedrive\escritorio\prototipoefpp1224\include\usuarios.h
+	<iostream>
+
+1716996582 c:\users\josue\onedrive\escritorio\prototipoefpp1224\include\login.h
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	<cstring>
+	"Bitacora.h"
+	"usuarios.h"
+
+1716996578 source:c:\users\josue\onedrive\escritorio\prototipoefpp1224\src\login.cpp
+	"Login.h"
+	"Bitacora.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1716997297 source:c:\users\josue\onedrive\escritorio\prototipoefpp1224\src\usuarios.cpp
+	"usuarios.h"
+	"Login.h"
+	"Bitacora.h"
+
+1716997721 source:c:\users\josue\onedrive\escritorio\prototipoefpp1224\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<conio.h>
+	<unistd.h>
+	"menu.h"
+	"Login.h"
+
+1716997786 c:\users\josue\onedrive\escritorio\prototipoefpp1224\include\menu.h
+
+1716997689 source:c:\users\josue\onedrive\escritorio\prototipoefpp1224\src\catalogos.cpp
+	"menu.h"
+	"usuarios.h"
+	"Bitacora.h"
+	"Login.h"
+	"Reportes.h"
+	"Catalogos.h"
+	"procesos.h"
+	<iostream>
+	<windows.h>
+
+1716997645 c:\users\josue\onedrive\escritorio\prototipoefpp1224\include\reportes.h
+
+1716997588 c:\users\josue\onedrive\escritorio\prototipoefpp1224\include\catalogos.h
+
+1716997588 c:\users\josue\onedrive\escritorio\prototipoefpp1224\include\procesos.h
+
+1716996701 source:c:\users\josue\onedrive\escritorio\prototipoefpp1224\src\menu.cpp
+	"menu.h"
+	"usuarios.h"
+	"Bitacora.h"
+	"Login.h"
+	"Reportes.h"
+	"Catalogos.h"
+	"procesos.h"
+	<iostream>
+	<windows.h>
+
+1716997633 source:c:\users\josue\onedrive\escritorio\prototipoefpp1224\src\reportes.cpp
+	"menu.h"
+	"usuarios.h"
+	"Bitacora.h"
+	"Login.h"
+	"Reportes.h"
+	"Catalogos.h"
+	"procesos.h"
+	<iostream>
+	<windows.h>
+
+1716997799 source:c:\users\josue\onedrive\escritorio\prototipoefpp1224\src\procesos.cpp
+	"menu.h"
+	"usuarios.h"
+	"Bitacora.h"
+	"Login.h"
+	"Reportes.h"
+	"Catalogos.h"
+	"procesos.h"
+	<iostream>
+	<windows.h>
+
+1716997721 source:c:\users\josue\onedrive\escritorio\examen final\prototipoefpp1224\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<conio.h>
+	<unistd.h>
+	"menu.h"
+	"Login.h"
+
+1716997786 c:\users\josue\onedrive\escritorio\examen final\prototipoefpp1224\include\menu.h
+
+1716996582 c:\users\josue\onedrive\escritorio\examen final\prototipoefpp1224\include\login.h
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	<cstring>
+	"Bitacora.h"
+	"usuarios.h"
+
+1716997373 c:\users\josue\onedrive\escritorio\examen final\prototipoefpp1224\include\bitacora.h
+	<iostream>
+	<fstream>
+	<string>
+	<ctime>
+	<cstring>
+	"usuarios.h"
+
+1716997301 c:\users\josue\onedrive\escritorio\examen final\prototipoefpp1224\include\usuarios.h
+	<iostream>
+
+1716997350 source:c:\users\josue\onedrive\escritorio\examen final\prototipoefpp1224\src\bitacora.cpp
+	<cstring>
+	"Bitacora.h"
+	"Login.h"
+
+1716999711 source:c:\users\josue\onedrive\escritorio\examen final\prototipoefpp1224\src\catalogos.cpp
+	"menu.h"
+	"usuarios.h"
+	"Bitacora.h"
+	"Login.h"
+	"Reportes.h"
+	"Catalogos.h"
+	"procesos.h"
+	"Cliente.h"
+	<iostream>
+	<windows.h>
+
+1716997645 c:\users\josue\onedrive\escritorio\examen final\prototipoefpp1224\include\reportes.h
+
+1716997588 c:\users\josue\onedrive\escritorio\examen final\prototipoefpp1224\include\catalogos.h
+
+1716997588 c:\users\josue\onedrive\escritorio\examen final\prototipoefpp1224\include\procesos.h
+
+1716996578 source:c:\users\josue\onedrive\escritorio\examen final\prototipoefpp1224\src\login.cpp
+	"Login.h"
+	"Bitacora.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1716996701 source:c:\users\josue\onedrive\escritorio\examen final\prototipoefpp1224\src\menu.cpp
+	"menu.h"
+	"usuarios.h"
+	"Bitacora.h"
+	"Login.h"
+	"Reportes.h"
+	"Catalogos.h"
+	"procesos.h"
+	<iostream>
+	<windows.h>
+
+1716997633 source:c:\users\josue\onedrive\escritorio\examen final\prototipoefpp1224\src\reportes.cpp
+	"menu.h"
+	"usuarios.h"
+	"Bitacora.h"
+	"Login.h"
+	"Reportes.h"
+	"Catalogos.h"
+	"procesos.h"
+	<iostream>
+	<windows.h>
+
+1716997297 source:c:\users\josue\onedrive\escritorio\examen final\prototipoefpp1224\src\usuarios.cpp
+	"usuarios.h"
+	"Login.h"
+	"Bitacora.h"
+
+1716997941 source:c:\users\josue\onedrive\escritorio\examen final\prototipoefpp1224\src\procesos.cpp
+	"menu.h"
+	"usuarios.h"
+	"Bitacora.h"
+	"Login.h"
+	"Reportes.h"
+	"Catalogos.h"
+	"procesos.h"
+	<iostream>
+	<windows.h>
+
+1717000572 source:c:\users\josue\onedrive\escritorio\examen final\prototipoefpp1224\src\cliente.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	"Bitacora.h"
+	"Login.h"
+	"Cliente.h"
+
+1717000391 c:\users\josue\onedrive\escritorio\examen final\prototipoefpp1224\include\cliente.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+
